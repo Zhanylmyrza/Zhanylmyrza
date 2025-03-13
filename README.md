@@ -1,23 +1,14 @@
-### Hi there, I'm Zhanylmyrza! 👋  
+# Hey, I'm Zhanylmyrza Bakirova! 🚀  
 
-🚀 **Python Backend Developer | Scalable Systems & Cloud Architectures**  
-Passionate about building high-performance backend systems, optimizing databases, and designing scalable architectures.   
+**Backend Engineer | Python | Distributed Systems Enthusiast**  
 
-💡 **Tech Stack:**  
-- **Backend:** Python, Django, FastAPI, Flask, DRF  
-- **Databases:** PostgreSQL, Redis, MongoDB, SQLAlchemy  
-- **Cloud & DevOps:** AWS (EC2, RDS, S3), Docker, Nginx, Gunicorn  
-- **CI/CD & Testing:** GitHub Actions, Pytest, Unittest  
-- **Web Technologies:** REST API, WebSockets, OAuth2, JWT  
+🔹 Crafting high-performance, scalable web applications with **Django, FastAPI, PostgreSQL, Redis, and AWS**.  
+🔹 Passionate about **system design, database optimization, and real-time architectures**.  
+🔹 Contributor to AI & LLM research – working on **multimodal data processing and adversarial NLP testing**.  
 
-🔥 **What I Love Working On:**  
-- Scalable backend architectures & distributed systems  
-- Cloud-based solutions with AWS & Docker  
-- Real-time communication (WebSockets, event-driven systems)  
-- Performance optimization & database tuning  
+💡 **Notable Work:**  
+🚀 **HELP Mentorship Platform** – A full-scale mentorship platform officially recognized by IAU.  
+🧠 **LLM & AI Research** – Cross-lingual math data annotation & NLP model evaluation.  
 
-📫 **Let's Connect!**  
-[![GitHub](https://img.shields.io/badge/GitHub-Zhanylmyrza-181717?style=flat&logo=github)](https://github.com/Zhanylmyrza)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
-
-🚀 *Always learning, always building!*
+📫 **Let’s connect & build something amazing!**  
+[LinkedIn](#) | [GitHub](https://github.com/Zhanylmyrza) | bakirovazhanylmyrza@gmail.com  
